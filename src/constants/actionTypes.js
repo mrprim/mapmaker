@@ -1,0 +1,7 @@
+export const REGISTER_ENTITY = 'REGISTER_ENTITY'
+export const SELECT = 'SELECT'
+export const DRAG_START = 'DRAG_START'
+export const DRAG = 'DRAG'
+export const DRAG_END = 'DRAG_END'
+export const ZOOM = 'ZOOM'
+export const SET_WINDOW_SIZE = 'SET_WINDOW_SIZE'
